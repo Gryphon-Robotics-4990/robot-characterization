@@ -4,8 +4,10 @@
 
 .settings
 bin
+.vscode
+.mypy_cache
 
-*/.gradle
-*/.vscode
-*/.wpilib
-*/build
+.gradle
+.vscode
+.wpilib
+build
